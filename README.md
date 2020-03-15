@@ -47,8 +47,17 @@ otherwise, I'm sorry, but I don't know how can get for this jars for people outs
 Test is my database name, and after this, are SSL information.
 
 ```
-test:sslConnection=true;sslTrustStoreLocation=C:\db2_ssl\my-truststore.jks;sslTrustStorePassword=<*mypasswd*>;
+<test>:sslConnection=true;sslTrustStoreLocation=C:\db2_ssl\<my-truststore>.jks;sslTrustStorePassword=<mypasswd>;
 ```
 
 *DBeaver exemple*
 <img src="https://github.com/weslen02/how-to-connect-db2-with-ssl/blob/master/img/2.2.png" class="center">
+
+- 2.3 Import the JARs file
+
+*Importing the JARs file*
+<img src="https://github.com/weslen02/how-to-connect-db2-with-ssl/blob/master/img/2.3.png" class="center">
+
+
+- 2.4 Then just test the connection, if the configuration worked you will receive the message *Connected*
+<img src="https://github.com/weslen02/how-to-connect-db2-with-ssl/blob/master/img/2.4.png" class="center">
