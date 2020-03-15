@@ -19,7 +19,7 @@ Login with an account IBM, and start the download how the image below:
 *Download drivers to JDBC*
 <img src="https://github.com/weslen02/how-to-connect-db2-with-ssl/blob/master/img/1.3.png" class="center">
 
-- 1.4. Extract the files from file tar.gz
+- 1.4. Extract the files of file tar.gz
 
 - 1.5 Create the folder for the JARs and copy or cut the files as listed in the image below:
 
