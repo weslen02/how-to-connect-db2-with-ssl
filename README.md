@@ -1,6 +1,6 @@
 # How to connect DB2 with SSL on Windows
 
-Connect DB2 with SSL on Tools > DBeaver and QMF
+Connect DB2 with SSL in the tool DBeaver
 
 ### Contents
 - [1. Creates and Download](#1-creates-and-download)
