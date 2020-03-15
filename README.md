@@ -2,7 +2,12 @@
 
 Connect DB2 with SSL on Tools > DBeaver and QMF
 
-1. Creates and Download
+### Contents
+- [1. Creates and Download](#1-creates-and-download)
+
+## Steps
+
+### 1. Creates and Download
 - 1.1. Create a folder for the files jks:
 > The files for SSL are usually provided by the DBA teams, I know how to create, but here is not the focus, as this is not a developer action, so possibly, you already have these files that will be described here, for this document be more objective, as I said, I will abstain from these creations of files  and certificates.
 
@@ -32,3 +37,18 @@ otherwise, I'm sorry, but I don't know how can get for this jars for people outs
 
 *Paste the files*
 <img src="https://github.com/weslen02/how-to-connect-db2-with-ssl/blob/master/img/1.6.png" class="center">
+
+
+### 2. connecting on DBeaver
+- 2.1. Create a DB connection, (Learn More about here](https://github.com/ca-cwds/intake/wiki/Install-DBeaver-and-Connect-to-PreInt-DB2)
+
+- 2.2. Inserting the SSL
+> The code below is an example where I change on DB/Schema infos, you need type your information how you created in the your machine.
+
+
+```
+test:sslConnection=true;sslTrustStoreLocation=C:\db2_ssl\my-truststore.jks;sslTrustStorePassword=<*mypasswd*>;
+```
+
+*DBeaver exemple*
+<img src="https://github.com/weslen02/how-to-connect-db2-with-ssl/blob/master/img/2.2.png" class="center">
