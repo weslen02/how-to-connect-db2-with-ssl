@@ -29,5 +29,6 @@ Login with an account IBM, and start the download how the image below:
 - 1.6 Paste the files in the folder:
 > **Note:** I think the license jar is not necessary, but if you found blocker for this, and if you IBMer, I can help you;
 otherwise, I'm sorry, but I don't know how can get for this jars for people outside the enterprise.
+
 *Paste the files*
 <img src="https://github.com/weslen02/how-to-connect-db2-with-ssl/blob/master/img/1.6.png" class="center">
