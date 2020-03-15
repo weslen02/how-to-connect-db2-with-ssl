@@ -61,3 +61,25 @@ Test is my database name, and after this, are SSL information.
 
 - 2.4 Then just test the connection, if the configuration worked you will receive the message *Connected*
 <img src="https://github.com/weslen02/how-to-connect-db2-with-ssl/blob/master/img/2.4.png" class="center">
+
+
+
+### 3. Reference
+Last access 2020-02-16.
+- [Install DBeaver and Connect to PreInt DB2](https://github.com/ca-cwds/intake/wiki/Install-DBeaver-and-Connect-to-PreInt-DB2)
+
+- [Configuring Secure Sockets Layer (SSL) support in a Db2 instance](https://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.db2.luw.admin.sec.doc/doc/t0025241.html)
+
+### 4. About
+This is not a reference document, but it aims to share knowledge, you can help improve it, I know that the english applied here is not the best, I'm brazilian and I'm learning this new language, so if you find mistakes, I apologize, and also I ask you to do a Fork and help me to improve this document so that other people can better understand it and so maybe solve a blocker.
+
+> **Together**, *we can* do more through the IT!
+
+<img src="https://github.com/weslen02/end-img/blob/master/img/tks.png" class="center">
+
+by:
+
+<img src="https://github.com/weslen02/end-img/blob/master/assWeslen2.png" class="center">
+
+
+> A good **knowledge** is **shared knowledge**!
