@@ -4,7 +4,7 @@ Connect DB2 with SSL in the tool DBeaver
 
 ### Contents
 - [1. Creates and Download](#1-creates-and-download)
-- [2. Connecting on DBeaver](#2.connecting-on-dbeaver)
+- [2. Connecting on DBeaver](#2-connecting-on-dbeaver)
 - [3. Reference](#3-reference)
 - [4. About](#4-about)
 
@@ -78,7 +78,7 @@ This is not a reference document, but it aims to share knowledge, you can help i
 
 > **Together**, *we can* do more through the IT!
 
-<img src="https://github.com/weslen02/end-img/blob/master/img/tks.png" class="center">
+<img src="https://github.com/weslen02/end-img/blob/master/tks.png" class="center">
 
 by:
 
