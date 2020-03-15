@@ -44,7 +44,7 @@ otherwise, I'm sorry, but I don't know how can get for this jars for people outs
 
 - 2.2. Inserting the SSL
 > The code below is an example where I change on DB/Schema infos, you need type your information how you created in the your machine.
-
+Test is my database name, and after this, are SSL information.
 
 ```
 test:sslConnection=true;sslTrustStoreLocation=C:\db2_ssl\my-truststore.jks;sslTrustStorePassword=<*mypasswd*>;
