@@ -4,6 +4,9 @@ Connect DB2 with SSL in the tool DBeaver
 
 ### Contents
 - [1. Creates and Download](#1-creates-and-download)
+- [2. Connecting on DBeaver](#2.connecting-on-dbeaver)
+- [3. Reference](#3-reference)
+- [4. About](#4-about)
 
 ## Steps
 
@@ -39,7 +42,7 @@ otherwise, I'm sorry, but I don't know how can get for this jars for people outs
 <img src="https://github.com/weslen02/how-to-connect-db2-with-ssl/blob/master/img/1.6.png" class="center">
 
 
-### 2. connecting on DBeaver
+### 2. Connecting on DBeaver
 - 2.1. Create a DB connection, (Learn More about here](https://github.com/ca-cwds/intake/wiki/Install-DBeaver-and-Connect-to-PreInt-DB2)
 
 - 2.2. Inserting the SSL
